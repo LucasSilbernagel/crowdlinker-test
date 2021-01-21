@@ -1,0 +1,9 @@
+
+/* TEAM */
+  Developer: Lucas Silbernagel
+  Websites: https://lucassilbernagel.com
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Javscript
+  Software: WordPress
